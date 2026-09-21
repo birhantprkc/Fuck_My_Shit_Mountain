@@ -30,11 +30,14 @@ HTML 输出（`templates/audit-report.html`）是一个完整的渲染页面，�
 
 ## 安装与使用
 
-懒人版：把这个链接丢给你的 AI IDE，让它把 `fuck-my-shit-mountain/` 这个 skill 装到 Codex 里：
+### 一键安装（向 AI IDE 发送提示词）
 
-[https://github.com/XiNian-dada/Fuck_My_Shit_Mountain](https://github.com/XiNian-dada/Fuck_My_Shit_Mountain)
+将本仓库链接发送给支持 Agent 体系的 AI IDE，并指示其安装：
 
-它要是问怎么装，告诉它：clone 仓库，然后把里面的 `fuck-my-shit-mountain/` 目录复制到对应 skills 目录。
+```text
+请帮我把这个仓库中的 fuck-my-shit-mountain/ skill 安装到当前环境：
+https://github.com/XiNian-dada/Fuck_My_Shit_Mountain
+```
 
 ### 手动安装
 
