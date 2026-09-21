@@ -116,6 +116,15 @@ Overall         ██████░░░░  6.6  B
 
 演示内容是虚构审计，页面顶部也有标注。
 
+## 第三方收录
+
+这个 Skill 已被以下第三方项目目录收录：
+
+- [Tool.lu Library](https://tool.lu/library/4y1) — 收录了项目简介与 README 内容
+- [SourcePulse #32479882](https://www.sourcepulse.org/projects/32479882) — 收录了项目、MIT 许可证与 GitHub Pages Demo
+
+感谢收录。上述页面由第三方维护，可能通过自动抓取生成，内容也可能滞后；最新版本、安装说明与演示页面请以[本 GitHub 仓库](https://github.com/XiNian-dada/Fuck_My_Shit_Mountain)为准。
+
 ## 手动安装
 
 如果你想自己装，流程也很短：
